@@ -7,7 +7,7 @@ import About from './About'
 import User from './User'
 import Top from './Top'
 
-function App() {
+export default function App() {
     return (
     <Router>
         <div>
